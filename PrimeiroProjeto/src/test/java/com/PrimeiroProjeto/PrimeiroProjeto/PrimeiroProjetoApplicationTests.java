@@ -1,4 +1,4 @@
-package com.ProjetoInicial.ProjetoInicial;
+package com.PrimeiroProjeto.PrimeiroProjeto;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class ProjetoInicialApplicationTests {
+public class PrimeiroProjetoApplicationTests {
 
 	@Test
 	public void contextLoads() {
